@@ -17,6 +17,7 @@ Any section is composed by three properties:
 - "Add" : an array of new value to add.
 - "Remove" : an array of names (strings). Any existing value which name match a name in this array will be removed.
 
+If you add an element with the same name of an existing one the existing one will be replaced.
 
 _**The coolants system**_
 
